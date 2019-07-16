@@ -1,2 +1,5 @@
-# hello-world
-Just one test
+#hello world
+
+Hi Humans!
+
+Alont here, I like C++ and Python
